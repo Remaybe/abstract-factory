@@ -1,3 +1,7 @@
+package stock.babies.assortment;
+
+import clothes.assortment.Trousers;
+
 public class BabyTrousers implements Trousers {
     @Override
     public void putOn() {
